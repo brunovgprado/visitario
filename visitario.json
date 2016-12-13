@@ -148,23 +148,23 @@
             "site": "Ir ao site "
         },
         {
-            "nome": "Cristo Redentor",
-            "foto": "https://brunovitorprado.github.io/visitario/img/cristo.jpg",
-            "bairro": "Alto da Boa Vista",
-            "endereco": "Parque Nacional da Tijuca",
-            "regiao": "Zona sul",
-            "mapa": "https://goo.gl/maps/5tSYZFf7xcr",
-            "funcionamento": "08:00 às 19:00",
-            "servico": "Privado",
+            "nome": "Ilha Fiscal",
+            "foto": "https://brunovitorprado.github.io/visitario/img/ilha_fiscal.jpg",
+            "bairro": "Centro",
+            "endereco": "Av. Alfredo Agache, s/n",
+            "regiao": "Centro",
+            "mapa": "https://goo.gl/maps/aLwij9XX3GE2",
+            "funcionamento": "11:30, 14h e 15:30",
+            "servico": "Publico/Privado",
             "custo": "Valores variados",
-            "telefone": "(21) 2492-2252",
-            "url": "https://www.cristoredentoroficial.com.br",
+            "telefone": "(21) 2104-6025",
+            "url": "https://www1.mar.mil.br/dphdm/ilha-fiscal",
             "site": "Ir ao site "
         }
     ],
     "comer": [
         {
-            "nome": "Cataroca Restaurante",
+            "nome": "Cataroca",
             "foto": "https://brunovitorprado.github.io/visitario/img/cataroca.PNG",
             "bairro": "Centro",
             "endereco": "Rua da Carioca, 47",
