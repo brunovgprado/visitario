@@ -41,7 +41,7 @@
             "url": "http://www.hupe.uerj.br",
             "site": "Ir ao site "
         }
-        ];
+        ]}
     $scope.delegacias = [
         {
             "nome": "5ª Delegacia Policial",
