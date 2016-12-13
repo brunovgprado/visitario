@@ -83,7 +83,7 @@
             "url": "http://www.policiacivil.rj.gov.br",
             "site": "Ir ao site "
         }
-    ];
+    ],
     "praias": [
         {
             "nome": "Praia de Copacabana",
@@ -117,7 +117,7 @@
             "regiao": "Zona oeste",
             "mapa": "https://goo.gl/maps/4wWzaGZcp3x"
         }
-    ];
+    ],
     "pontos": [
         {
             "nome": "Bondinho Pão de Açúcar",
@@ -161,7 +161,7 @@
             "url": "https://www.cristoredentoroficial.com.br",
             "site": "Ir ao site "
         }
-    ];
+    ],
     "comer": [
         {
             "nome": "Cataroca Restaurante",
@@ -211,7 +211,7 @@
             "url": "http://www.restaurantechapeudecouro.com.br/",
             "site": "Ir ao site "
         }
-    ];
+    ],
     "dormir": [
         {
             "nome": "Hotel Galicia",
@@ -261,7 +261,7 @@
             "url": "http://www.everest.com.br/",
             "site": "Ir ao site "
         }
-    ];
+    ],
     "eventos": [
         {
             "nome": "Garbage",
