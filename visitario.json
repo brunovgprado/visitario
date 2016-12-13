@@ -11,7 +11,7 @@
             "custo": "Gratuito",
             "telefone": "(21) 3111-2611",
             "url": "http://www.hospitalsouzaaguiar.blogspot.com.br/",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "Hospital Espanhol",
@@ -25,7 +25,7 @@
             "custo": "Não informado",
             "telefone": "(21) 2158-9000",
             "url": "http://www.hospitalespanholrj.com.br/",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "Hospital Pedro Ernesto",
@@ -39,9 +39,9 @@
             "custo": "Gratuito",
             "telefone": "(21) 2868-8000",
             "url": "http://www.hupe.uerj.br",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         }
-        ]};
+        ];
     $scope.delegacias = [
         {
             "nome": "5ª Delegacia Policial",
@@ -54,7 +54,7 @@
             "servico": "Plantão policial",
             "telefone": "(21) 2332-8110",
             "url": "http://www.policiacivil.rj.gov.br",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "12ª Delegacia Policial",
@@ -67,7 +67,7 @@
             "servico": "Plantão policial",
             "telefone": "(21) 2332-7914",
             "url": "http://www.policiacivil.rj.gov.br",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "17ª Delegacia Policial",
@@ -80,7 +80,7 @@
             "servico": "Plantão policial",
             "telefone": "(21) 2334-8504",
             "url": "http://www.policiacivil.rj.gov.br",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         }
     ];
     $scope.praias = [
@@ -130,7 +130,7 @@
             "custo": "Valores variados",
             "telefone": "(21) 2546-8433",
             "url": "http://www.bondinho.com.br",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "Cristo Redentor",
@@ -144,7 +144,7 @@
             "custo": "Valores variados",
             "telefone": "(21) 2492-2252",
             "url": "https://www.cristoredentoroficial.com.br",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "Cristo Redentor",
@@ -158,7 +158,7 @@
             "custo": "Valores variados",
             "telefone": "(21) 2492-2252",
             "url": "https://www.cristoredentoroficial.com.br",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         }
     ];
     $scope.comer = [
@@ -172,7 +172,7 @@
             "funcionamento": "Seg a Sex, 11 às 16hs",
             "telefone": "(21) 2220-4225",
             "url": "http://www.cataroca.com.br/",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "Estação Siqueira Galeteria",
@@ -184,7 +184,7 @@
             "funcionamento": "11:00 às 00:00",
             "telefone": "(21) 2158-9000",
             "url": "http://www.estacaosiqueiragaleteria.com.br/",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "Tô nem aí",
@@ -196,7 +196,7 @@
             "funcionamento": "11:45 às 03:00",
             "telefone": "(21) 2247-8403",
             "url": "http://www.tonemai.vitrinevirtual.net/",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "Chapéu de Couro",
@@ -208,7 +208,7 @@
             "funcionamento": "11:30 às 23:00",
             "telefone": "(21) 2290-3474",
             "url": "http://www.restaurantechapeudecouro.com.br/",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         }
     ];
     $scope.dormir = [
@@ -222,7 +222,7 @@
             "funcionamento": "Recepção 24 Horas",
             "telefone": "(21) 2221-0211",
             "url": "http://www.hotelgalicia.com.br/",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "Rio's Nice Hotel",
@@ -234,7 +234,7 @@
             "funcionamento": "Recepção 24 Horas",
             "telefone": "(21) 3970-9100",
             "url": "http://www.riosnicehotel.com.br/",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "Mar Palace Copacabana",
@@ -246,7 +246,7 @@
             "funcionamento": "Recepção 24 Horas",
             "telefone": "(21) 2132-1500",
             "url": "http://www.hotelmarpalace.com.br/",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "Everest Rio Hotel",
@@ -258,7 +258,7 @@
             "funcionamento": "Recepção 24 Horas",
             "telefone": "(21) 2525-2200",
             "url": "http://www.everest.com.br/",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         }
     ];
     $scope.eventos = [
@@ -275,7 +275,7 @@
             "custo": "Veja no "site"",
             "telefone": "(21) 2533-0354",
             "url": "http://www.circovoador.com.br/",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "Lulu Santos",
@@ -290,7 +290,7 @@
             "custo": "Veja no "site"",
             "telefone": "(21) 2430-5100",
             "url": "http://www.premier.ticketsforfun.com.br/shows/show.aspx?sh=LULUSUB",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "A Janela Mágica + Museu",
@@ -305,7 +305,7 @@
             "custo": "Veja no "site"",
             "telefone": "(21) 2088-0536",
             "url": "http://www.ingresso.com/rio-de-janeiro/home/espetaculo/eventos/a-janela-magica-museu",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "O Aniversário do Pingo",
@@ -320,7 +320,7 @@
             "custo": "Veja no "site"",
             "telefone": "(21) 2088-0536",
             "url": "http://www.ingresso.com/rio-de-janeiro/home/espetaculo/eventos/o-aniversario-do-pingo-museu",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         },
         {
             "nome": "Meu Passado Me Condena",
@@ -335,7 +335,7 @@
             "custo": "Veja no "site"",
             "telefone": "(21) 2088-0536",
             "url": "http://www.ingresso.com/rio-de-janeiro/home/espetaculo/teatro/meu-passado-me-condena",
-            "site": "Ir ao "site" "
+            "site": "Ir ao site "
         }
     ];
     $scope.banheiros = [
@@ -351,8 +351,8 @@
             "custo": "Gratuito",
             "restricao": "Nenhuma informada",
             "telefone": "(21) 3154.8282",
-            "url": "http://orlario.com.br/"site"/technology/postos-de-salvamento/",
-            "site": "Ir ao "site" "
+            "url": "http://orlario.com.br/site/technology/postos-de-salvamento/",
+            "site": "Ir ao site "
         },
         {
             "nome": "Posto 2",
@@ -366,8 +366,8 @@
             "custo": "Gratuito",
             "restricao": "Nenhuma informada",
             "telefone": "(21) 3154.8282",
-            "url": "http://orlario.com.br/"site"/technology/postos-de-salvamento/",
-            "site": "Ir ao "site" "
+            "url": "http://orlario.com.br/site/technology/postos-de-salvamento/",
+            "site": "Ir ao site "
         },
         {
             "nome": "Base 13",
@@ -381,8 +381,8 @@
             "custo": "Gratuito",
             "restricao": "Nenhuma informada",
             "telefone": "(21) 3154.8282",
-            "url": "http://orlario.com.br/"site"/technology/postos-de-salvamento/",
-            "site": "Ir ao "site" "
+            "url": "http://orlario.com.br/site/technology/postos-de-salvamento/",
+            "site": "Ir ao site "
         },
         {
             "nome": "Base 14",
@@ -396,8 +396,8 @@
             "custo": "Gratuito",
             "restricao": "Nenhuma informada",
             "telefone": "(21) 3154.8282",
-            "url": "http://orlario.com.br/"site"/technology/postos-de-salvamento/",
-            "site": "Ir ao "site" "
+            "url": "http://orlario.com.br/site/technology/postos-de-salvamento/",
+            "site": "Ir ao site "
         },
         {
             "nome": "UFA",
