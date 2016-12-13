@@ -1,4 +1,4 @@
-{"hospitais": [
+[
         {
             "nome": "Hospital souza aguiar",
             "foto": "https://brunovitorprado.github.io/visitario/img/souza_aguiar.png",
@@ -41,4 +41,4 @@
             "url": "http://www.hupe.uerj.br",
             "site": "Ir ao site "
         }
-        ]}
+]
