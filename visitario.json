@@ -272,7 +272,7 @@
             "mapa": "https://goo.gl/maps/LncKtcCN8iK2",
             "horario": "11/12 19:00",
             "tipo": "Evento musical",
-            "custo": "Veja no "site"",
+            "custo": "Veja no site",
             "telefone": "(21) 2533-0354",
             "url": "http://www.circovoador.com.br/",
             "site": "Ir ao site "
@@ -287,7 +287,7 @@
             "mapa": "https://goo.gl/maps/CkmXf66xWR62",
             "horario": "17/12 22:30",
             "tipo": "Evento musical",
-            "custo": "Veja no "site"",
+            "custo": "Veja no site",
             "telefone": "(21) 2430-5100",
             "url": "http://www.premier.ticketsforfun.com.br/shows/show.aspx?sh=LULUSUB",
             "site": "Ir ao site "
@@ -302,7 +302,7 @@
             "mapa": "https://goo.gl/maps/bS8Af9khQU22",
             "horario": "17/12 15:00",
             "tipo": "Animação",
-            "custo": "Veja no "site"",
+            "custo": "Veja no site",
             "telefone": "(21) 2088-0536",
             "url": "http://www.ingresso.com/rio-de-janeiro/home/espetaculo/eventos/a-janela-magica-museu",
             "site": "Ir ao site "
@@ -317,7 +317,7 @@
             "mapa": "https://goo.gl/maps/bS8Af9khQU22",
             "horario": "18/12 15:00",
             "tipo": "Animação",
-            "custo": "Veja no "site"",
+            "custo": "Veja no site",
             "telefone": "(21) 2088-0536",
             "url": "http://www.ingresso.com/rio-de-janeiro/home/espetaculo/eventos/o-aniversario-do-pingo-museu",
             "site": "Ir ao site "
@@ -332,7 +332,7 @@
             "mapa": "https://goo.gl/maps/42Z26cLMzWB2",
             "horario": "18/12 20:00",
             "tipo": "Teatro/Comédia",
-            "custo": "Veja no "site"",
+            "custo": "Veja no site",
             "telefone": "(21) 2088-0536",
             "url": "http://www.ingresso.com/rio-de-janeiro/home/espetaculo/teatro/meu-passado-me-condena",
             "site": "Ir ao site "
@@ -413,3 +413,4 @@
             "site": ""
         }
     ];
+
