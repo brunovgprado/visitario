@@ -47,7 +47,7 @@
         {
             "nome": "5ª Delegacia Policial",
             "foto": "https://brunovitorprado.github.io/visitario/img/5-DP.PNG",
-            "bairrol": "Centro",
+            "bairro": "Centro",
             "endereco": "Av. Gomes Freire, 320",
             "regiao": "Centro",
             "mapa": "https://goo.gl/maps/zaEVtvF9Fqn",
@@ -60,7 +60,7 @@
         {
             "nome": "12ª Delegacia Policial",
             "foto": "https://brunovitorprado.github.io/visitario/img/12-DP.PNG",
-            "bairrol": "Copacabana",
+            "bairro": "Copacabana",
             "endereco": "Rua Hilário de Gouvêia, 102",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/Cw6VdDXBsgP2",
@@ -73,7 +73,7 @@
         {
             "nome": "17ª Delegacia Policial",
             "foto": "https://brunovitorprado.github.io/visitario/img/17-DP.PNG",
-            "bairrol": "São cristóvão",
+            "bairro": "São cristóvão",
             "endereco": "R. São Cristóvão, 309",
             "regiao": "Zona norte",
             "mapa": "https://goo.gl/maps/N1vskMzeJFx",
@@ -88,7 +88,7 @@
         {
             "nome": "Praia de Copacabana",
             "foto": "https://brunovitorprado.github.io/visitario/img/copacabana.jpg",
-            "bairrol": "Copacabana",
+            "bairro": "Copacabana",
             "endereco": "Av. Atlântica, s/n",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/DcagPrRFuSJ2"
@@ -96,7 +96,7 @@
         {
             "nome": "Praia de Ipanema",
             "foto": "https://brunovitorprado.github.io/visitario/img/ipanema.png",
-            "bairrol": "Ipanema",
+            "bairro": "Ipanema",
             "endereco": "Av. Delfin moreira, s/n",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/8XX3hBELc2n"
@@ -104,7 +104,7 @@
         {
             "nome": "Praia da macumba",
             "foto": "https://brunovitorprado.github.io/visitario/img/praia_da_macumba.png",
-            "bairrol": "Recreio dos Bandeirantes",
+            "bairro": "Recreio dos Bandeirantes",
             "endereco": "Av. AW, s/n",
             "regiao": "Zona oeste",
             "mapa": "https://goo.gl/maps/xgZc16siiLo"
@@ -112,7 +112,7 @@
         {
             "nome": "Prainha",
             "foto": "https://brunovitorprado.github.io/visitario/img/prainha.jpg",
-            "bairrol": "Recreio dos Bandeirantes",
+            "bairro": "Recreio dos Bandeirantes",
             "endereco": "Av. Estado da Guanabara, s/n",
             "regiao": "Zona oeste",
             "mapa": "https://goo.gl/maps/4wWzaGZcp3x"
@@ -122,7 +122,7 @@
         {
             "nome": "Bondinho Pão de Açúcar",
             "foto": "https://brunovitorprado.github.io/visitario/img/pao_de_acucar.jpg",
-            "bairrol": "Urca",
+            "bairro": "Urca",
             "endereco": "Praça Gen. Tibúrcio, 520",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/js37Xxiq3Wk",
@@ -136,7 +136,7 @@
         {
             "nome": "Cristo Redentor",
             "foto": "https://brunovitorprado.github.io/visitario/img/cristo.jpg",
-            "bairrol": "Alto da Boa Vista",
+            "bairro": "Alto da Boa Vista",
             "endereco": "Parque Nacional da Tijuca",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/5tSYZFf7xcr",
@@ -150,7 +150,7 @@
         {
             "nome": "Cristo Redentor",
             "foto": "https://brunovitorprado.github.io/visitario/img/cristo.jpg",
-            "bairrol": "Alto da Boa Vista",
+            "bairro": "Alto da Boa Vista",
             "endereco": "Parque Nacional da Tijuca",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/5tSYZFf7xcr",
@@ -166,7 +166,7 @@
         {
             "nome": "Cataroca Restaurante",
             "foto": "https://brunovitorprado.github.io/visitario/img/cataroca.PNG",
-            "bairrol": "Centro",
+            "bairro": "Centro",
             "endereco": "Rua da Carioca, 47",
             "regiao": "Centro",
             "mapa": "https://goo.gl/maps/KBQa9WzYRaF2",
@@ -178,7 +178,7 @@
         {
             "nome": "Estação Siqueira Galeteria",
             "foto": "https://brunovitorprado.github.io/visitario/img/estacao_siqueira.png",
-            "bairrol": "Copacabana",
+            "bairro": "Copacabana",
             "endereco": "R. Siqueira Campos, 117",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/gzvzv5S6uSm",
@@ -190,7 +190,7 @@
         {
             "nome": "Tô nem aí",
             "foto": "https://brunovitorprado.github.io/visitario/img/to_nem_ai.png",
-            "bairrol": "Ipanema",
+            "bairro": "Ipanema",
             "endereco": "R. Farme de Amoedo, 57",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/gzosBpCcHmo",
@@ -202,7 +202,7 @@
         {
             "nome": "Chapéu de Couro",
             "foto": "https://brunovitorprado.github.io/visitario/img/chapeu_de_couro.png",
-            "bairrol": "Bonsucesso",
+            "bairro": "Bonsucesso",
             "endereco": "Av. Guilherme Maxwell, 437",
             "regiao": "Zona norte",
             "mapa": "https://goo.gl/maps/nd4X5a5SGoF2",
@@ -216,7 +216,7 @@
         {
             "nome": "Hotel Galicia",
             "foto": "https://brunovitorprado.github.io/visitario/img/galicia.png",
-            "bairrol": "Centro",
+            "bairro": "Centro",
             "endereco": "R. Carlos de Carvalho, 6",
             "regiao": "Centro",
             "mapa": "https://goo.gl/maps/YRDHZcnNioz",
@@ -228,7 +228,7 @@
         {
             "nome": "Rio's Nice Hotel",
             "foto": "https://brunovitorprado.github.io/visitario/img/rios_nice.png",
-            "bairrol": "Santa teresa",
+            "bairro": "Santa teresa",
             "endereco": "R. Riachuelo, 201",
             "regiao": "Centro",
             "mapa": "https://goo.gl/maps/6AbdK7DWxuH2",
@@ -240,7 +240,7 @@
         {
             "nome": "Mar Palace Copacabana",
             "foto": "https://brunovitorprado.github.io/visitario/img/mar_palace.png",
-            "bairrol": "Copacabana",
+            "bairro": "Copacabana",
             "endereco": "Av. Ns de Copacabana, 552",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/vHbNHbPAE142",
@@ -252,7 +252,7 @@
         {
             "nome": "Everest Rio Hotel",
             "foto": "https://brunovitorprado.github.io/visitario/img/everest.png",
-            "bairrol": "Ipanema",
+            "bairro": "Ipanema",
             "endereco": "R. Prudente de Morais, 1117",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/us3toSmNvT22",
@@ -267,7 +267,7 @@
             "nome": "Garbage",
             "foto": "https://brunovitorprado.github.io/visitario/img/garbage_band.jpg",
             "local": "Circo voador",
-            "bairrol": "lapa",
+            "bairro": "lapa",
             "endereco": "Rua dos Arcos, s/n",
             "regiao": "Centro",
             "mapa": "https://goo.gl/maps/LncKtcCN8iK2",
@@ -297,7 +297,7 @@
             "nome": "A Janela Mágica + Museu",
             "foto": "https://brunovitorprado.github.io/visitario/img/a_janela_magica.png",
             "local": "Fundação planetário",
-            "bairrol": "Gávea",
+            "bairro": "Gávea",
             "endereco": "R. Vice Gov. Rubens Berardo 100",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/bS8Af9khQU22",
@@ -312,7 +312,7 @@
             "nome": "O Aniversário do Pingo",
             "foto": "https://brunovitorprado.github.io/visitario/img/aniversario_pingo.PNG",
             "local": "Fundação planetário",
-            "bairrol": "Gávea",
+            "bairro": "Gávea",
             "endereco": "R. Vice Gov. Rubens Berardo, 100",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/bS8Af9khQU22",
@@ -327,7 +327,7 @@
             "nome": "Meu Passado Me Condena",
             "foto": "https://brunovitorprado.github.io/visitario/img/meu_passado.png",
             "local": "Fundação planetário",
-            "bairrol": "Gávea",
+            "bairro": "Gávea",
             "endereco": "R. Marquês de São Vicente, 52",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/42Z26cLMzWB2",
@@ -343,7 +343,7 @@
         {
             "nome": "Posto 1",
             "foto": "https://brunovitorprado.github.io/visitario/img/posto_1.png",
-            "bairrol": "Leme",
+            "bairro": "Leme",
             "endereco": "Av. Atlântica, 590",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/rn9mayNKT832",
@@ -358,7 +358,7 @@
         {
             "nome": "Posto 2",
             "foto": "https://brunovitorprado.github.io/visitario/img/posto_2.png",
-            "bairrol": "Copacabana",
+            "bairro": "Copacabana",
             "endereco": "Av. Atlântica, 1430",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/3CPG77uUcQy",
@@ -373,7 +373,7 @@
         {
             "nome": "Base 13",
             "foto": "https://brunovitorprado.github.io/visitario/img/base_13.PNG",
-            "bairrol": "Copacabana",
+            "bairro": "Copacabana",
             "endereco": "Av. Atlântica, sn",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/rzQy3RtE4rM2",
@@ -388,7 +388,7 @@
         {
             "nome": "Base 14",
             "foto": "https://brunovitorprado.github.io/visitario/img/base_14.PNG",
-            "bairrol": "Copacabana",
+            "bairro": "Copacabana",
             "endereco": "Av. Atlântica, sn",
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/wri494Uu6ss",
@@ -403,7 +403,7 @@
         {
             "nome": "UFA",
             "foto": "https://brunovitorprado.github.io/visitario/img/ufa.png",
-            "bairrol": "Tijuca",
+            "bairro": "Tijuca",
             "endereco": "Praça Saenz Peña, sn",
             "regiao": "Zona norte",
             "mapa": "https://goo.gl/maps/wSuumXcZFC22",
