@@ -2,7 +2,7 @@
         {
             "nome": "Hospital souza aguiar",
             "foto": "https://brunovitorprado.github.io/visitario/img/souza_aguiar.png",
-            "bairrol": "Centro",
+            "bairro": "Centro",
             "endereco": "Praça da República, 111",
             "regiao": "Centro",
             "mapa": "https://goo.gl/maps/YyGSUyTGzTU2",
@@ -16,7 +16,7 @@
         {
             "nome": "Hospital Espanhol",
             "foto": "https://brunovitorprado.github.io/visitario/img/hospital_espanhol.jpg",
-            "bairrol": "Centro",
+            "bairro": "Centro",
             "endereco": "R. Riachuelo, 302",
             "regiao": "Centro",
             "mapa": "https://goo.gl/maps/5tSYZFf7xcr",
@@ -30,7 +30,7 @@
         {
             "nome": "Hospital Pedro Ernesto",
             "foto": "https://brunovitorprado.github.io/visitario/img/pedro_ernesto.png",
-            "bairrol": "Vila isabel",
+            "bairro": "Vila isabel",
             "endereco": "Boulevard 28 de Setembro, 77",
             "regiao": "Zona norte",
             "mapa": "https://goo.gl/maps/5tSYZFf7xcr",
