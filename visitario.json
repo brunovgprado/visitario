@@ -1,4 +1,5 @@
-[
+{
+"hospital":[
         {
             "nome": "Hospital souza aguiar",
             "foto": "https://brunovitorprado.github.io/visitario/img/souza_aguiar.png",
@@ -42,3 +43,4 @@
             "site": "Ir ao site "
         }
 ]
+}
