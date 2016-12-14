@@ -160,6 +160,20 @@
             "telefone": "(21) 2104-6025",
             "url": "https://www1.mar.mil.br/dphdm/ilha-fiscal",
             "site": "Ir ao site "
+        },
+          {
+            "nome": "Mirante do Leblon",
+            "foto": "https://brunovitorprado.github.io/visitario/img/mirante_leblon.jpg",
+            "bairro": "Leblon",
+            "endereco": "Av. Niemeyer, s/n",
+            "regiao": "Zona sul",
+            "mapa": "https://goo.gl/maps/mQ2JDi1KDXJ2",
+            "funcionamento": "24 Horas",
+            "servico": "Logradouro público",
+            "custo": "Acesso gratuito",
+            "telefone": "Não se aplica",
+            "url": "http://www.riodejaneiroaqui.com/portugues/mirante-do-leblon.html",
+            "site": "Ir ao site "
         }
     ],
     "comer": [
