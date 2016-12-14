@@ -155,7 +155,7 @@
             "regiao": "Centro",
             "mapa": "https://goo.gl/maps/aLwij9XX3GE2",
             "funcionamento": "11:30, 14h e 15:30",
-            "servico": "Publico/Privado",
+            "servico": "Publico",
             "custo": "Valores variados",
             "telefone": "(21) 2104-6025",
             "url": "https://www1.mar.mil.br/dphdm/ilha-fiscal",
@@ -169,7 +169,7 @@
             "regiao": "Zona sul",
             "mapa": "https://goo.gl/maps/mQ2JDi1KDXJ2",
             "funcionamento": "24 Horas",
-            "servico": "Logradouro público",
+            "servico": "Logradouro publico",
             "custo": "Acesso gratuito",
             "telefone": "Não se aplica",
             "url": "http://www.riodejaneiroaqui.com/portugues/mirante-do-leblon.html",
@@ -187,6 +187,20 @@
             "custo": "Veja no site",
             "telefone": "(21) 2521-1032",
             "url": "http://www.fortedecopacabana.com/",
+            "site": "Ir ao site "
+        },
+        {
+            "nome": "Forte Duque de Caxias",
+            "foto": "https://brunovitorprado.github.io/visitario/img/forte_duque_de_caxias.JPG",
+            "bairro": "Leme",
+            "endereco": "Praça Almirante Júlio de Noronha, s/n",
+            "regiao": "Zona sul",
+            "mapa": "https://goo.gl/maps/imcj2sm8wD82",
+            "funcionamento": "Ter a Dom, 09:30 às 16:30",
+            "servico": "Privado",
+            "custo": "Veja no site",
+            "telefone": "(21) 3223-5076",
+            "url": "http://www.cep.ensino.eb.br/",
             "site": "Ir ao site "
         }
     ],
